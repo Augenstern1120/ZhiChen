@@ -17,10 +17,10 @@ I'm Zhi Chen, currently a graduate student at the School of Physics and Electron
 - **Industrial Fan Detection Based on Acousticse**  
   Led the development of a deep learning fault detection system for industrial fans, from data collection to model deployment with Pytorch's CP-ResNet. Applied FMS and ADIR for data augmentation, ensuring robust model performance through comprehensive testing.
 
-- **Audio Tampering Detection**
+- **Audio Tampering Detection**  
   Developed methods to identify audio file alterations and locate tampering points. Responsibilities included data preprocessing, framework setup, and experimental validation.
 
-- **Chinese Word Segmentation and Classification**
+- **Chinese Word Segmentation and Classification**  
   Implemented NLP tasks focusing on dividing text into lexical units and classifying them. Tasks covered framework setup, experimental validation, and comparative analysis.
 
 - **IMU-Based Human Motion Capture**  
