@@ -20,9 +20,7 @@ I'm Zhi Chen, currently a graduate student at the School of Physics and Electron
 - **Other Projects**  
   Included industrial fan detection based on acoustics, multimodal emotion recognition, audio tampering detection, and Chinese word segmentation.
 
-### Achievements
-- Published: "Improving Acoustic Scene Classification in Low-Resource Conditions" (CCF-B, first author, ICASSP 2025).
-- Patents and awards: National and provincial competition awards, scholarships.
+- Published: "Improving Acoustic Scene Classification in Low-Resource Conditions" (ICASSP 2025).
 
 ### Future Research Interests
 In pursuit of a PhD, I aim to further explore:
