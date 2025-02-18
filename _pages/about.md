@@ -27,7 +27,7 @@ I'm Zhi Chen, currently a graduate student at the School of Physics and Electron
   Completed at Jiangsu Normal University, this project involved sensor ellipsoid fitting correction, data preprocessing, and pedestrian dead reckoning for accurate human posture reconstruction using Unity 3D.
 
 - **Published**  
-- Published: "Improving Acoustic Scene Classification in Low-Resource Conditions" (CCF-B,ICASSP 2025).
+- Published: Improving Acoustic Scene Classification in Low-Resource Conditions (CCF-B, ICASSP 2025).
 
 
 ### Future Research Interests
