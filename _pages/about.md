@@ -23,11 +23,11 @@ I'm Zhi Chen, currently a graduate student at the School of Physics and Electron
 - Published: "Improving Acoustic Scene Classification in Low-Resource Conditions" (ICASSP 2025).
 
 ### Future Research Interests
-In pursuit of a PhD, I aim to further explore:
-- Cross-device adaptability and low-resource optimization.
-- Multimodal acoustic scene classification combined with speech recognition.
-- Dialect and second language speech recognition.
-- Pathological speech corpus construction and pronunciation recognition for individuals with speech disorders.
+- Cross-device adaptability and low-resource optimization, including adaptive data augmentation based on audio characteristics (e.g., SNR, frequency distribution).
+- Multimodal acoustic scene classification combined with speech recognition, integrating AED and ASC to improve scene identification accuracy.
+- Open category identification strategies for robust cross-device, low-resource conditions.
+- Dialect and second language speech recognition, focusing on enhancing understanding and pronunciation accuracy.
+- Pathological speech corpus construction and pronunciation recognition, aiming to assist individuals with speech disorders.
 
 
-[Email](mailto:augenstern-chen@foxmail.com) / [Github](https://augenstern1120.github.io/ZhiChen/)
+[Email](mailto:augenstern-chen@foxmail.com) / [Github](https://github.com/Augenstern1120)
