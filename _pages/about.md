@@ -29,6 +29,7 @@ I'm Zhi Chen, currently a graduate student at the School of Physics and Electron
 - Dialect and second language speech recognition, focusing on enhancing understanding and pronunciation accuracy.
 - Pathological speech corpus construction and pronunciation recognition, aiming to assist individuals with speech disorders.
 
+I am currently in search of opportunities to apply for a PhD program. If you could provide any assistance or recommendations, I would be deeply grateful for your contact.
 
 Email: augenstern-chen@foxmail.com
 
