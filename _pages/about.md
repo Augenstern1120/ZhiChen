@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhi Chen - Academic Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -29,6 +29,5 @@ In pursuit of a PhD, I aim to further explore:
 - Dialect and second language speech recognition.
 - Pathological speech corpus construction and pronunciation recognition for individuals with speech disorders.
 
-You can find my CV here: [Zhi Chen's Curriculum Vitae](请提供你的简历链接).
 
 [Email](mailto:augenstern-chen@foxmail.com) / [Github](https://augenstern1120.github.io/ZhiChen/)
