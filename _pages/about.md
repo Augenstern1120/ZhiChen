@@ -30,4 +30,7 @@ I'm Zhi Chen, currently a graduate student at the School of Physics and Electron
 - Pathological speech corpus construction and pronunciation recognition, aiming to assist individuals with speech disorders.
 
 
-[Email](mailto:augenstern-chen@foxmail.com) / [Github](https://github.com/Augenstern1120)
+Email: augenstern-chen@foxmail.com
+
+
+[Email](augenstern-chen@foxmail.com) / [Github](https://github.com/Augenstern1120)
