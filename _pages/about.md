@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhi Chen, currently a graduate student at the School of Physics and Electronic Engineering, Jiangsu Normal University. My research interests lie in deep learning and artificial intelligence, particularly focusing on cross-device adaptability and optimization under low-resource conditions.
+I'm Zhi Chen, currently a Ph.D. student in Computer Science at the School of Computer Science and Technology, East China Normal University (ECNU).
 
 ### Research Experience
 
@@ -37,7 +37,6 @@ I'm Zhi Chen, currently a graduate student at the School of Physics and Electron
 - Dialect and second language speech recognition, focusing on enhancing understanding and pronunciation accuracy.
 - Pathological speech corpus construction and pronunciation recognition, aiming to assist individuals with speech disorders.
 
-I am currently in search of opportunities to apply for a PhD program. If you could provide any assistance or recommendations, I would be deeply grateful for your contact.
 
 Email: augenstern-chen@foxmail.com
 
